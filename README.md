@@ -47,9 +47,9 @@ These engineered features help capture customer behavior patterns and improve ch
 ## Key Visualizations
 
 ### Objective 1: Churn Profiles
-- Overall churn rate: **15%** of customers churned, indicating class imbalance (~85% did not churn).  
+- Overall churn rate: **14.5%** of customers churned, indicating class imbalance (85.5% did not churn).  
 - Customers with **International Plans** exhibited higher churn rates (~42%), compared to ~11% for those without.   
-
+![Target Distribution](images/churn_distribution.png)
 ![Churn International](images/churn_itl.png)
 
 ### Objective 2: Contributing Factors
@@ -57,6 +57,7 @@ These engineered features help capture customer behavior patterns and improve ch
 - **Voicemail plan adoption** is associated with lower churn variability and thus customers with voicemail plans tend to be more stable.   
 
 ![Customer Service Calls vs Churn](images/cust_service_calls.png)
+![Voicemail vs Churn](images/voicemail_churn.png)
 
 ### Objective 3: Geographic Factors
 - Area code 415 has the highest number of customers and elevated churn, while 408 and 510 show lower churn despite similar customer volumes.  
