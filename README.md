@@ -95,10 +95,9 @@ These engineered features help capture customer behavior patterns and improve ch
 - Offer **customized international or bundled plans** to customers with heavy international calling to reduce churn driven by high charges.  
 - Educate customers on plan benefits to highlight convenience, predictability, and cost savings.  
 
-### 4. Regional and State-Level Retention Strategies
-- Target **high-churn states** such as New Jersey, Texas, Maryland, and Minnesota with retention campaigns.  
+### 4. Regional and State-Level Retention Strategies 
 - Investigate and address service quality or infrastructure issues in **area code 415**, where churn is elevated despite high customer volume.  
-- Deploy **localized promotions** and faster issue resolution to strengthen loyalty in at-risk regions.
+- Deploy **localized promotions** and faster issue resolution to strengthen loyalty in at-risk states.
 
 ---
 
